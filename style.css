@@ -1,0 +1,75 @@
+body {
+  background-color: lightgray;
+  font-family: Avenir, sans-serif;
+}
+header {
+  background-color: lightgray;
+}
+.button {
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: darkgray;
+  color: white;
+  font-weight: bold;
+}
+img {
+  border-radius: 10px;
+}
+section.title {
+  outline: 1px solid purple;
+  float: left;
+  width: 20%;
+  position: relative;
+}
+.stats ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.stats li {
+  padding-bottom: 1em;
+}
+.stats {
+  text-align: center;
+  border-top: 1px solid purple;
+  padding-bottom: 20px;
+}
+section.content {
+  outline: 1px solid purple;
+  float: right;
+  width: 80%;
+  height: 100%;
+  position: relative;
+}
+.mainphoto {
+  text-align: center;
+  padding: 20px;
+}
+.mainphoto>img {
+  width: 95%;
+}
+.mainphoto h3, .mainphoto h5 {
+  margin: 0;
+  padding: 0;
+}
+.content .left {
+  float: left;
+  width: 320px;
+  padding: 20px 40px 0 40px;
+  text-align: center;
+}
+.left>img {
+  width: 100%;
+}
+.content .right {
+  float: right;
+}
+.oldfriends {
+  text-align: center;
+  position: relative;
+}
+.gallery img {
+  display: inline-block;
+  width: 25%;
+  margin: 0 20px;
+}
