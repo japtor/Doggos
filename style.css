@@ -17,7 +17,8 @@ img {
 }
 section.title {
   outline: 1px solid purple;
-  outline-offset: -1px;
+  outline-offset: 0px;
+  margin-top: 1px;
   float: left;
   width: 20%;
   position: relative;
