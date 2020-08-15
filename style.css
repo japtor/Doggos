@@ -4,13 +4,16 @@ body {
 }
 header {
   background-color: lightgray;
+  margin: 10px 0;
 }
 .button {
   display: inline-block;
-  padding: 20px 40px;
+  padding: 10px 30px;
   background-color: darkgray;
   color: white;
   font-weight: bold;
+  border-radius: 5px;
+  margin: 2px;
 }
 img {
   border-radius: 10px;
