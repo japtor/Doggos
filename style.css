@@ -17,6 +17,7 @@ img {
 }
 section.title {
   outline: 1px solid purple;
+  outline-offset: -1px;
   float: left;
   width: 20%;
   position: relative;
@@ -36,6 +37,7 @@ section.title {
 }
 section.content {
   outline: 1px solid purple;
+  outline-offset: -1px;
   float: right;
   width: 80%;
   height: 100%;
