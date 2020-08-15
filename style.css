@@ -73,3 +73,7 @@ section.content {
   width: 25%;
   margin: 0 20px;
 }
+.main p {
+  padding: 0 40px;
+  text-align: justify;
+}
